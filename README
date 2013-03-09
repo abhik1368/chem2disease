@@ -1,0 +1,10 @@
+Important terms in the repository
+
+There is a Manual.pdf which is the manual made for using cheminfov.informatics.indiana.edu/chem2disease/ .The manual can also 
+be found in the webpage.
+semanticweb.sql --> is the database dump file
+paginate.js--> is the pagination javascript file
+html2csv--> is the conversion script of the results to csv format
+index.php --> index file
+process3.php ---> is the php script to obtain the results.
+autosuggest.js--> is the autosuggestion javascript.
